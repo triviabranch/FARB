@@ -2,7 +2,7 @@
 Colour Matching Fashion App
 
 
-here was the inital GPT Prompt
+Here was the inital GPT Prompt
 
 "I’ve an idea for an app.
 
