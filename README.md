@@ -10,3 +10,8 @@ Search for items based on RGB colours - ie I’ve bought a dress in this colour,
 We scan and catalog various sites, keeping RGB data for each product - could be single colour, process to handle multiple colours and percentage.
 Potential to suggest complementary colours etc.
 We serve up affiliate links and keep the commission."
+
+## Setup
+
+1. Copy `.env.example` to `.env.local`.
+2. Fill in your API keys inside `.env.local` (this file is git-ignored).
